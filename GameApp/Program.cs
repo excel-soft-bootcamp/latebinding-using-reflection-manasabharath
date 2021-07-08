@@ -99,7 +99,7 @@ namespace GameApplication
                                     {
                                        
                                        
-                                        object result = _methodRef.Invoke(objRef, new object[] { "xyz", 300 });
+                                        object result = _methodRef.Invoke(objRef, new object[] { });
                                         Console.WriteLine(result.ToString());
                                     }
 
@@ -109,12 +109,12 @@ namespace GameApplication
                             break;
 
                     default:Console.WriteLine("invalid number");
-                        this.count++;
+                        
                         if (this.count ==3)
                         {
-
+                                 break;
                         }
-
+                      this.count++;
                     }
                 
 
