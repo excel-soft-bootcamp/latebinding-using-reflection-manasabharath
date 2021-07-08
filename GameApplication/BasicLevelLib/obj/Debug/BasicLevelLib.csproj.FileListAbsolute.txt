@@ -1,6 +1,0 @@
-C:\Users\manasa.v\source\repos\GameApplication\BasicLevelLib\bin\Debug\BasicLevelLib.dll
-C:\Users\manasa.v\source\repos\GameApplication\BasicLevelLib\bin\Debug\BasicLevelLib.pdb
-C:\Users\manasa.v\source\repos\GameApplication\BasicLevelLib\obj\Debug\BasicLevelLib.csproj.AssemblyReference.cache
-C:\Users\manasa.v\source\repos\GameApplication\BasicLevelLib\obj\Debug\BasicLevelLib.csproj.CoreCompileInputs.cache
-C:\Users\manasa.v\source\repos\GameApplication\BasicLevelLib\obj\Debug\BasicLevelLib.dll
-C:\Users\manasa.v\source\repos\GameApplication\BasicLevelLib\obj\Debug\BasicLevelLib.pdb
