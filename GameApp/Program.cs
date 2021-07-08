@@ -45,9 +45,7 @@ namespace GameApplication
                                     System.Reflection.MethodInfo _methodRef = basicLevelTypeClassRef.GetMethod("Play");
                                     if (!_methodRef.IsStatic)
                                     {
-                                        //Invoke NonStatic Method
-                                        // string Play(string playerName, int earlierPoints){}
-                                        //object result=  _methodRef.Invoke(objRef, new object[] {"Tom",20 });
+                                       
                                         object result = _methodRef.Invoke(objRef, new object[] {  });
                                         Console.WriteLine(result.ToString());
                                     }
@@ -100,7 +98,7 @@ namespace GameApplication
                                     if (!_methodRef.IsStatic)
                                     {
                                        
-                                        //object result=  _methodRef.Invoke(objRef, new object[] {});
+                                       
                                         object result = _methodRef.Invoke(objRef, new object[] { "xyz", 300 });
                                         Console.WriteLine(result.ToString());
                                     }
