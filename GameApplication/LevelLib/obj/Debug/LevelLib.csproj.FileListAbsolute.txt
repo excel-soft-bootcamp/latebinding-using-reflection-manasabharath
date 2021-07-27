@@ -1,0 +1,5 @@
+C:\Users\manasa.v\source\repos\GameApplication\LevelLib\obj\Debug\LevelLib.csproj.CoreCompileInputs.cache
+C:\Users\manasa.v\source\repos\GameApplication\LevelLib\bin\Debug\LevelLib.dll
+C:\Users\manasa.v\source\repos\GameApplication\LevelLib\bin\Debug\LevelLib.pdb
+C:\Users\manasa.v\source\repos\GameApplication\LevelLib\obj\Debug\LevelLib.dll
+C:\Users\manasa.v\source\repos\GameApplication\LevelLib\obj\Debug\LevelLib.pdb
