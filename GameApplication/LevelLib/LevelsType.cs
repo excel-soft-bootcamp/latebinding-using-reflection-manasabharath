@@ -30,7 +30,7 @@ namespace LevelLib
                     if (getMethod == "Start")
                     {
                         Object[] _parameters = new Object[1];
-                        _parameters[0] = "sumanth";
+                        _parameters[0] = "abc";
                         string start = (string)_getMethodRef.Invoke(_levelsTypeObjRef, _parameters);
                         Console.WriteLine($"{start} started");
                         Console.ReadKey();
@@ -38,8 +38,8 @@ namespace LevelLib
                     if (getMethod == "Begin")
                     {
                         Object[] _parameters = new Object[2];
-                        _parameters[0] = "sumanth";
-                        _parameters[1] = 619;
+                        _parameters[0] = "abc";
+                        _parameters[1] = 100;
                         string begin = (string)_getMethodRef.Invoke(_levelsTypeObjRef, _parameters);
                         Console.WriteLine($"{begin} started ");
                         Console.ReadKey();
